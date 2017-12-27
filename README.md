@@ -1,2 +1,1 @@
-# mindmap
-mindmap files
+# My Knowledge Map
